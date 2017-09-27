@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "Roboto";
+	src: url("fonts/RobotoLight/Roboto-Light.eot");
+	src: url("fonts/RobotoLight/Roboto-Light.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/RobotoLight/Roboto-Light.woff") format("woff"),
+			 url("fonts/RobotoLight/Roboto-Light.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "FuturaPTLight";
+	src: url("fonts/FuturaPTLight.eot");
+	src: url("fonts/FuturaPTLight/FuturaPTLight.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/FuturaPTLight/FuturaPTLight.woff") format("woff"),
+			 url("fonts/FuturaPTLight/FuturaPTLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "FuturaPTDemi";
+	src: url("fonts/FuturaPTDemi.eot");
+	src: url("fonts/FuturaPTDemi/FuturaPTDemi.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/FuturaPTDemi/FuturaPTDemi.woff") format("woff"),
+			 url("fonts/FuturaPTDemi/FuturaPTDemi.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
